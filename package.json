@@ -1,6 +1,6 @@
 {
   "name": "mojo-bootstrap",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "mojo-bootstrap ==============",
   "main": "./lib/index.js",
   "scripts": {
