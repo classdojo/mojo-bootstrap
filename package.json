@@ -1,0 +1,26 @@
+{
+  "name": "mojo-bootstrap",
+  "version": "0.0.2",
+  "description": "mojo-bootstrap ==============",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/classdojo/mojo-bootstrap"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classdojo/mojo-bootstrap/issues"
+  },
+  "homepage": "https://github.com/classdojo/mojo-bootstrap",
+  "dependencies": {
+    "mojo-mediator": "0.0.5"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.20.1"
+  }
+}
